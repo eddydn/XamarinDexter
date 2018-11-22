@@ -13,7 +13,7 @@ Dexter frees your permission code from your activities and lets you write that l
 Screenshots
 -----------
 
-![Demo screenshot][1]
+![Demo screenshot](https://github.com/Karumi/Dexter/raw/master/art/sample.gif)
 
 Usage
 -----
