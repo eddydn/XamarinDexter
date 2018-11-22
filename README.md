@@ -25,5 +25,5 @@ or
 Enter this line to Package Console
 
 ```groovy
-Install-Package Dexter -Version 1.0.2
+Install-Package Dexter -Version 1.0.3
 ```
